@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {"name": "openai_blog", "url": "https://openai.com/news", "type": "article"},
+    {"name": "anthropic_blog", "url": "https://www.anthropic.com/news", "type": "article"},
+    {"name": "google_research", "url": "https://research.google/blog/", "type": "article"},
+    {"name": "papers_with_code", "url": "https://paperswithcode.com/", "type": "paper"},
+    {"name": "huggingface_papers", "url": "https://huggingface.co/papers", "type": "paper"},
+    {"name": "github_trending", "url": "https://github.com/trending", "type": "repo"},
+    {"name": "hackernews", "url": "https://news.ycombinator.com", "type": "article"},
+    {"name": "arxiv_ai", "url": "https://arxiv.org/list/cs.AI/recent", "type": "paper"}
+  ]
+}
